@@ -1,0 +1,14 @@
+D:\HOC TAP\Lab02\Lab02_part02\bin\Debug\net10.0\Lab02_part03_part04.exe
+D:\HOC TAP\Lab02\Lab02_part02\bin\Debug\net10.0\Lab02_part03_part04.deps.json
+D:\HOC TAP\Lab02\Lab02_part02\bin\Debug\net10.0\Lab02_part03_part04.runtimeconfig.json
+D:\HOC TAP\Lab02\Lab02_part02\bin\Debug\net10.0\Lab02_part03_part04.dll
+D:\HOC TAP\Lab02\Lab02_part02\bin\Debug\net10.0\Lab02_part03_part04.pdb
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\Lab02_part03_part04.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\Lab02_part03_part04.AssemblyInfoInputs.cache
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\Lab02_part03_part04.AssemblyInfo.cs
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\Lab02_part03_part04.csproj.CoreCompileInputs.cache
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\Lab02_part03_part04.dll
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\refint\Lab02_part03_part04.dll
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\Lab02_part03_part04.pdb
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\Lab02_part03_part04.genruntimeconfig.cache
+D:\HOC TAP\Lab02\Lab02_part02\obj\Debug\net10.0\ref\Lab02_part03_part04.dll

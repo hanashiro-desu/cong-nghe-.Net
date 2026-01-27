@@ -1,0 +1,13 @@
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\bin\Debug\Lab04-LearnhowtouseKeyPreview.exe.config
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\bin\Debug\Lab04-LearnhowtouseKeyPreview.exe
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\bin\Debug\Lab04-LearnhowtouseKeyPreview.pdb
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04-LearnhowtouseKeyPreview.csproj.AssemblyReference.cache
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04_LearnhowtouseKeyPreview.Form1.resources
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04_LearnhowtouseKeyPreview.Properties.Resources.resources
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04-LearnhowtouseKeyPreview.csproj.GenerateResource.cache
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04-LearnhowtouseKeyPreview.csproj.CoreCompileInputs.cache
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04-LearnhowtouseKeyPreview.exe
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04-LearnhowtouseKeyPreview.pdb
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04_LearnhowtouseKeyPreview.Form4_2.resources
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04_LearnhowtouseKeyPreview.frmThaotacso.resources
+D:\HOC TAP\Lab04-LearnhowtouseKeyPreview\Lab04-LearnhowtouseKeyPreview\obj\Debug\Lab04_LearnhowtouseKeyPreview.frmSinhvien.resources

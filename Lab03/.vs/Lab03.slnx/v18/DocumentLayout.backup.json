@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOC TAP\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|d:\\hoc tap\\lab03\\lab03\\formbt03_securitypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|solutionrelative:lab03\\formbt03_securitypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|d:\\hoc tap\\lab03\\lab03\\formbt03_securitypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|solutionrelative:lab03\\formbt03_securitypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|d:\\hoc tap\\lab03\\lab03\\form570fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|solutionrelative:lab03\\form570fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|d:\\hoc tap\\lab03\\lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|solutionrelative:lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF05DC-A14D-4B2F-98FB-CFD20536AC0B}|Lab03\\Lab03.csproj|D:\\HOC TAP\\Lab03\\lab03\\form570fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BECF05DC-A14D-4B2F-98FB-CFD20536AC0B}|Lab03\\Lab03.csproj|solutionrelative:lab03\\form570fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|d:\\hoc tap\\lab03\\lab03\\formmaytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|solutionrelative:lab03\\formmaytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|d:\\hoc tap\\lab03\\lab03\\formtinhuocboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15CBD3-59AD-4152-BF08-86B3F4DEB744}|Lab03\\Lab03.csproj|solutionrelative:lab03\\formtinhuocboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMayTinh.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\Lab03\\Lab03\\FormMayTinh.cs",
+              "RelativeDocumentMoniker": "Lab03\\FormMayTinh.cs",
+              "ToolTip": "D:\\HOC TAP\\Lab03\\Lab03\\FormMayTinh.cs",
+              "RelativeToolTip": "Lab03\\FormMayTinh.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA5wCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:26:55.308Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBT03_SecurityPanel.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\Lab03\\Lab03\\FormBT03_SecurityPanel.cs",
+              "RelativeDocumentMoniker": "Lab03\\FormBT03_SecurityPanel.cs",
+              "ToolTip": "D:\\HOC TAP\\Lab03\\Lab03\\FormBT03_SecurityPanel.cs",
+              "RelativeToolTip": "Lab03\\FormBT03_SecurityPanel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwFQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:36:07.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form570fx.cs [Design]",
+              "DocumentMoniker": "D:\\HOC TAP\\Lab03\\Lab03\\Form570fx.cs",
+              "RelativeDocumentMoniker": "Lab03\\Form570fx.cs",
+              "ToolTip": "D:\\HOC TAP\\Lab03\\Lab03\\Form570fx.cs [Design]",
+              "RelativeToolTip": "Lab03\\Form570fx.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:20:05.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBT03_SecurityPanel.cs [Design]",
+              "DocumentMoniker": "D:\\HOC TAP\\Lab03\\Lab03\\FormBT03_SecurityPanel.cs",
+              "RelativeDocumentMoniker": "Lab03\\FormBT03_SecurityPanel.cs",
+              "ToolTip": "D:\\HOC TAP\\Lab03\\Lab03\\FormBT03_SecurityPanel.cs [Design]",
+              "RelativeToolTip": "Lab03\\FormBT03_SecurityPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:19:51.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form570fx.cs [Design]",
+              "DocumentMoniker": "D:\\HOC TAP\\Lab03\\Lab03\\Form570fx.cs",
+              "RelativeDocumentMoniker": "Lab03\\Form570fx.cs",
+              "ToolTip": "D:\\HOC TAP\\Lab03\\Lab03\\Form570fx.cs [Design]",
+              "RelativeToolTip": "Lab03\\Form570fx.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:45:13.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\Lab03\\Lab03\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03\\Program.cs",
+              "ToolTip": "D:\\HOC TAP\\Lab03\\Lab03\\Program.cs",
+              "RelativeToolTip": "Lab03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:09:25.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTinhUocBoi.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\Lab03\\Lab03\\FormTinhUocBoi.cs",
+              "RelativeDocumentMoniker": "Lab03\\FormTinhUocBoi.cs",
+              "ToolTip": "D:\\HOC TAP\\Lab03\\Lab03\\FormTinhUocBoi.cs",
+              "RelativeToolTip": "Lab03\\FormTinhUocBoi.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:01:17.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
