@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\",
+  "WorkspaceRootPath": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|d:\\hoc tap\\lab04-learnhowtousekeypreview\\lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|d:\\hoc tap\\lab04-learnhowtousekeypreview\\lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|d:\\hoc tap\\lab04-learnhowtousekeypreview\\lab04-learnhowtousekeypreview\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|d:\\hoc tap\\lab04-learnhowtousekeypreview\\lab04-learnhowtousekeypreview\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|d:\\hoc tap\\lab04-learnhowtousekeypreview\\lab04-learnhowtousekeypreview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|d:\\hoc tap\\lab04-learnhowtousekeypreview\\lab04-learnhowtousekeypreview\\form4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|d:\\hoc tap\\cong-nghe-.net\\lab04-learnhowtousekeypreview\\lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\frmthaotacso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\form4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\form4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\form4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\lab04-learnhowtousekeypreview\\form4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{279E4493-2276-4CA9-BFFF-1F8F9C8F8433}|Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview.csproj|solutionrelative:lab04-learnhowtousekeypreview\\form4_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,15 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmSinhvien.cs",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
-              "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
               "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
               "ViewState": "AgIAADIAAAAAAAAAAADwv0cAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmSinhvien.cs [Design]",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs",
-              "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs [Design]",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs [Design]",
               "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\frmSinhvien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T12:29:45.97Z",
@@ -71,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form1.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form1.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\Form1.cs",
-              "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form1.cs [Design]",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form1.cs [Design]",
               "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T11:52:54.715Z",
@@ -83,24 +83,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "frmThaotacso.cs",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
-              "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
               "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAswIsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T11:23:34.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmThaotacso.cs [Design]",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs",
-              "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs [Design]",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs [Design]",
               "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\frmThaotacso.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T11:20:40.816Z",
@@ -108,41 +108,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Program.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Program.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\Program.cs",
-              "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Program.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Program.cs",
               "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:36:37.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T12:36:37.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form4_2.cs",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
-              "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
               "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAWwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:36:16.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T12:36:16.068Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Form4_2.cs [Design]",
-              "DocumentMoniker": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
               "RelativeDocumentMoniker": "Lab04-LearnhowtouseKeyPreview\\Form4_2.cs",
               "ToolTip": "D:\\HOC TAP\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs [Design]",
-              "RelativeToolTip": "Lab04-LearnhowtouseKeyPreview\\Form4_2.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab04-LearnhowtouseKeyPreview\\Lab04-LearnhowtouseKeyPreview\\Form4_2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:11:20.92Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-20T12:11:20.92Z"
             }
           ]
         }

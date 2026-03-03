@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|d:\\hoc tap\\cong-nghe-.net\\danh muc nhan vien\\danh muc nhan vien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|solutionrelative:danh muc nhan vien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|d:\\hoc tap\\cong-nghe-.net\\danh muc nhan vien\\danh muc nhan vien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|solutionrelative:danh muc nhan vien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\danh muc nhan vien\\formmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|solutionrelative:danh muc nhan vien\\formmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\danh muc nhan vien\\formnhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|solutionrelative:danh muc nhan vien\\formnhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\danh muc nhan vien\\formsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|solutionrelative:danh muc nhan vien\\formsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|d:\\hoc tap\\cong-nghe-.net\\danh muc nhan vien\\danh muc nhan vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FF2A06-6FFE-2962-F432-4BAAD45F0945}|Danh Muc Nhan Vien\\Danh Muc Nhan Vien.csproj|solutionrelative:danh muc nhan vien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormMonHoc.cs",
+              "RelativeDocumentMoniker": "Danh Muc Nhan Vien\\FormMonHoc.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormMonHoc.cs [Design]",
+              "RelativeToolTip": "Danh Muc Nhan Vien\\FormMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:01:17.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormNhapDiem.cs [Design]",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormNhapDiem.cs",
+              "RelativeDocumentMoniker": "Danh Muc Nhan Vien\\FormNhapDiem.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormNhapDiem.cs [Design]",
+              "RelativeToolTip": "Danh Muc Nhan Vien\\FormNhapDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:01:16.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSINHVIEN.cs [Design]",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormSINHVIEN.cs",
+              "RelativeDocumentMoniker": "Danh Muc Nhan Vien\\FormSINHVIEN.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormSINHVIEN.cs [Design]",
+              "RelativeToolTip": "Danh Muc Nhan Vien\\FormSINHVIEN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:01:13.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\Program.cs",
+              "RelativeDocumentMoniker": "Danh Muc Nhan Vien\\Program.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\Program.cs",
+              "RelativeToolTip": "Danh Muc Nhan Vien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:55:58.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormMain.cs",
+              "RelativeDocumentMoniker": "Danh Muc Nhan Vien\\FormMain.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormMain.cs",
+              "RelativeToolTip": "Danh Muc Nhan Vien\\FormMain.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:43:10.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormMain.cs",
+              "RelativeDocumentMoniker": "Danh Muc Nhan Vien\\FormMain.cs",
+              "ToolTip": "D:\\HOC TAP\\cong-nghe-.Net\\Danh Muc Nhan Vien\\Danh Muc Nhan Vien\\FormMain.cs [Design]",
+              "RelativeToolTip": "Danh Muc Nhan Vien\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:41:29.652Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
